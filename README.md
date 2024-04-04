@@ -8,7 +8,6 @@
 <a href="https://gitee.com/doocs/jvm"><img src="https://badgen.net/badge/⭐/Gitee/blue" alt="gitee"></a>
 <a href="http://makeapullrequest.com"><img src="https://badgen.net/badge/PRs/welcome/cyan" alt="PRs Welcome"></a>
 <a href="https://github.com/doocs/doocs.github.io"><img src="https://badgen.net/badge/organization/join%20us/cyan" alt="open-source-organization"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fdoocs%2Fjvm?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdoocs%2Fjvm.svg?type=shield"/></a>
 
 这里仅仅记录了一些笔者认为需要重点掌握的 JVM 知识点，如果你想更加全面地了解 JVM 底层原理，可以阅读周志明老师《深入理解 Java 虚拟机——JVM 高级特性与最佳实践(第 2/3 版)》全书。
 
@@ -36,11 +35,11 @@
 
 ## 写作规范
 
-参考《[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)》。
+参考《[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)》
 
-## License
+## 许可证
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdoocs%2Fjvm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdoocs%2Fjvm?ref=badge_large)
+[知识共享 版权归属-相同方式共享 4.0 国际 公共许可证](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
@@ -58,37 +57,21 @@ Doocs 技术社区，致力于打造一个内容完整、持续成长的互联�
 | 6   | [md](https://github.com/doocs/md)                                 | 一款高度简洁的微信 Markdown 编辑器。                                                             | ![](https://badgen.net/github/stars/doocs/md) <br>![](https://badgen.net/github/forks/doocs/md)                                 |
 | 7   | [technical-books](https://github.com/doocs/technical-books)       | 值得一看的技术书籍列表。                                                                         | ![](https://badgen.net/github/stars/doocs/technical-books) <br>![](https://badgen.net/github/forks/doocs/technical-books)       |
 
-## 贡献者
-
-感谢以下所有朋友对 [Doocs 技术社区](https://github.com/doocs) 所做出的贡献，[参与项目维护请戳这儿](https://doocs.github.io/#/?id=how-to-join)。
-
-<!-- ALL-CONTRIBUTORS-LIST: START - Do not remove or modify this section -->
-
-<a href="https://opencollective.com/doocs/contributors.svg?width=890&button=true"><img src="https://opencollective.com/doocs/contributors.svg?width=890&button=false" /></a>
-
-<!-- ALL-CONTRIBUTORS-LIST: END -->
-
 ## 公众号
 
-[Doocs](https://github.com/doocs) 技术社区旗下唯一公众号「**Doocs 开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
+[Doocs](https://github.com/doocs) 技术社区旗下唯一公众号「**Doocs**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
 
 <table>
   <tr>
-    <td align="center" style="width: 200px;">
-      <a href="https://github.com/doocs">
-        <img src="https://cdn.jsdelivr.net/gh/doocs/jvm@main/images/qrcode-for-doocs.jpg" style="width: 400px;"><br>
-        <sub>公众平台</sub>
-      </a><br>
+    <td align="center" style="width: 260px;">
+      <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-doocs.png" style="width: 400px;"><br>
     </td>
-    <td align="center" style="width: 200px;">
-      <a href="https://github.com/yanglbme">
-        <img src="https://cdn.jsdelivr.net/gh/doocs/jvm@main/images/qrcode-for-yanglbme.jpg" style="width: 400px;"><br>
-        <sub>个人微信</sub>
-      </a><br>
+    <td align="center" style="width: 260px;">
+      <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-yanglbme.png" style="width: 400px;"><br>
     </td>
   </tr>
 </table>
 
-关注「**Doocs 开源社区**」公众号，回复 **JVM**，即可获取本项目离线 PDF 文档，学习更加方便！
+关注「**Doocs**」公众号，回复 **JVM**，即可获取本项目离线 PDF 文档，学习更加方便！
 
-![](https://cdn.jsdelivr.net/gh/doocs/jvm@main/images/jvm-pdf.png)
+![](https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/jvm@main/images/jvm-pdf.png)

@@ -29,19 +29,18 @@
 
 本项目使用开源小工具 [Gitee Pages Actions](https://github.com/yanglbme/gitee-pages-action) 实现站点的自动部署更新。
 
-目前支持以下三个站点访问：
+目前支持以下两个站点访问：
 
-- [Netlify](https://jvm.netlify.app)
 - [Gitee Pages](https://doocs.gitee.io/jvm)
 - [GitHub Pages](https://doocs.github.io/jvm)
 
 ## 写作规范
 
-参考《[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)》。
+参考《[中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)》
 
-## License
+## 许可证
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdoocs%2Fjvm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdoocs%2Fjvm?ref=badge_large)
+[知识共享 版权归属-相同方式共享 4.0 国际 公共许可证](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
 
@@ -71,25 +70,19 @@ Doocs 技术社区，致力于打造一个内容完整、持续成长的互联�
 
 ## 公众号
 
-[Doocs](https://github.com/doocs) 技术社区旗下唯一公众号「**Doocs 开源社区**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
+[Doocs](https://github.com/doocs) 技术社区旗下唯一公众号「**Doocs**」​，欢迎扫码关注，**专注分享技术领域相关知识及行业最新资讯**。当然，也可以加我个人微信（备注：GitHub），拉你进技术交流群。
 
 <table>
   <tr>
-    <td align="center" style="width: 200px;">
-      <a href="https://github.com/doocs">
-        <img src="https://cdn.jsdelivr.net/gh/doocs/jvm@main/images/qrcode-for-doocs.jpg" style="width: 400px;"><br>
-        <sub>公众平台</sub>
-      </a><br>
+    <td align="center" style="width: 260px;">
+      <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-doocs.png" style="width: 400px;"><br>
     </td>
-    <td align="center" style="width: 200px;">
-      <a href="https://github.com/yanglbme">
-        <img src="https://cdn.jsdelivr.net/gh/doocs/jvm@main/images/qrcode-for-yanglbme.jpg" style="width: 400px;"><br>
-        <sub>个人微信</sub>
-      </a><br>
+    <td align="center" style="width: 260px;">
+      <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-yanglbme.png" style="width: 400px;"><br>
     </td>
   </tr>
 </table>
 
-关注「**Doocs 开源社区**」公众号，回复 **JVM**，即可获取本项目离线 PDF 文档，学习更加方便！
+关注「**Doocs**」公众号，回复 **JVM**，即可获取本项目离线 PDF 文档，学习更加方便！
 
-![](https://cdn.jsdelivr.net/gh/doocs/jvm@main/images/jvm-pdf.png)
+![](https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/jvm@main/images/jvm-pdf.png)
